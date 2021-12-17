@@ -1,2 +1,2 @@
-# -V3X-linux-
-对原项目MIPI-V3X进行的大幅度修改
+# -Linux-V3X-BAT-
+基于全志V3X制作的带电池的2寸屏幕LINUX小电脑
